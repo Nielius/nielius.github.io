@@ -124,7 +124,7 @@ function getYoutubeEmbedUrl(url) {
 function getHash(url) {
   const a = document.createElement('a');
   a.href = url;
-
+  return a.hash;
 }
 
 function makeSearchUrl(params) {
