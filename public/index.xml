@@ -1,31 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Niels uit de Bos</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Niels uit de Bos</description>
-    <image>
-      <title>Niels uit de Bos</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.131.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>Desc Text.</description>
-    </item>
-    <item>
-      <title>Code Syntax Guide</title>
-      <link>http://localhost:1313/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Niels uit de Bos</title><link>https://niels.uitdebos.com/</link><description>Recent content on Niels uit de Bos</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>niels@uitdebos.com (Niels uit de Bos)</managingEditor><webMaster>niels@uitdebos.com (Niels uit de Bos)</webMaster><lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://niels.uitdebos.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Test post</title><link>https://niels.uitdebos.com/testblog/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>niels@uitdebos.com (Niels uit de Bos)</author><guid>https://niels.uitdebos.com/testblog/</guid><description>Sample article showcasing basic code syntax and formatting for HTML elements.</description><content:encoded>&lt;h1 id="test">Test&lt;/h1>
+&lt;p>This is a test&lt;/p>
+</content:encoded></item><item><title>Archive</title><link>https://niels.uitdebos.com/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>niels@uitdebos.com (Niels uit de Bos)</author><guid>https://niels.uitdebos.com/archives/</guid><description>archives</description><content:encoded></content:encoded></item><item><title>Research</title><link>https://niels.uitdebos.com/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>niels@uitdebos.com (Niels uit de Bos)</author><guid>https://niels.uitdebos.com/research/</guid><description>&lt;h2 id="publications">Publications&lt;/h2>
+&lt;h3 id="aiml">AI/ML&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Relating Piecewise Linear Kolmogorov Arnold Networks to ReLU Networks&lt;/strong>&lt;br>
+Nandi Schoots, Mattia Jacopo Villani, &lt;strong>Niels uit de Bos&lt;/strong>&lt;br>
+&lt;strong>AISTATS 2025&lt;/strong>&lt;br>
+&lt;a href="https://arxiv.org/abs/2503.01702">arXiv:2503.01702&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Adversarial Circuit Evaluation&lt;/strong>&lt;br>
+&lt;strong>Niels uit de Bos&lt;/strong>, Adrià Garriga-Alonso&lt;br>
+&lt;strong>ICML 2024 Workshop&lt;/strong> on Mechanistic Interpretability&lt;br>
+&lt;a href="https://openreview.net/forum?id=I5E9ZZNBjT">OpenReview&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="mathematics">Mathematics&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>An explicit geometric Langlands correspondence for the projective line minus four points&lt;/strong>&lt;br>
+&lt;strong>Niels uit de Bos&lt;/strong>&lt;br>
+&lt;strong>International Mathematics Research Notices&lt;/strong>, September 2021&lt;br>
+(Main results from Ph.D. thesis.)&lt;br>
+&lt;a href="https://doi.org/10.1093/imrn/rnab218">DOI:10.1093/imrn/rnab218&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>An explicit geometric Langlands correspondence for the projective line minus four points&lt;/strong>&lt;br>
+&lt;strong>Niels uit de Bos&lt;/strong>&lt;br>
+&lt;strong>Ph.D. Thesis&lt;/strong>&lt;br>
+DuEPublico: Duisburg-Essen Publications Online, University of Duisburg-Essen, March 2019&lt;br>
+&lt;a href="https://doi.org/10.17185/duepublico/70031">DOI:10.17185/duepublico/70031&lt;/a>&lt;/p></description><content:encoded><![CDATA[<h2 id="publications">Publications</h2>
+<h3 id="aiml">AI/ML</h3>
+<ul>
+<li>
+<p><strong>Relating Piecewise Linear Kolmogorov Arnold Networks to ReLU Networks</strong><br>
+Nandi Schoots, Mattia Jacopo Villani, <strong>Niels uit de Bos</strong><br>
+<strong>AISTATS 2025</strong><br>
+<a href="https://arxiv.org/abs/2503.01702">arXiv:2503.01702</a></p>
+</li>
+<li>
+<p><strong>Adversarial Circuit Evaluation</strong><br>
+<strong>Niels uit de Bos</strong>, Adrià Garriga-Alonso<br>
+<strong>ICML 2024 Workshop</strong> on Mechanistic Interpretability<br>
+<a href="https://openreview.net/forum?id=I5E9ZZNBjT">OpenReview</a></p>
+</li>
+</ul>
+<h3 id="mathematics">Mathematics</h3>
+<ul>
+<li>
+<p><strong>An explicit geometric Langlands correspondence for the projective line minus four points</strong><br>
+<strong>Niels uit de Bos</strong><br>
+<strong>International Mathematics Research Notices</strong>, September 2021<br>
+(Main results from Ph.D. thesis.)<br>
+<a href="https://doi.org/10.1093/imrn/rnab218">DOI:10.1093/imrn/rnab218</a></p>
+</li>
+<li>
+<p><strong>An explicit geometric Langlands correspondence for the projective line minus four points</strong><br>
+<strong>Niels uit de Bos</strong><br>
+<strong>Ph.D. Thesis</strong><br>
+DuEPublico: Duisburg-Essen Publications Online, University of Duisburg-Essen, March 2019<br>
+<a href="https://doi.org/10.17185/duepublico/70031">DOI:10.17185/duepublico/70031</a></p>
+</li>
+<li>
+<p><strong>Non-additive functors and Euler characteristics</strong><br>
+<strong>Niels uit de Bos</strong>, Lenny Taelman (equal contribution)<br>
+<strong>Homology, Homotopy and Applications</strong>, Volume 17 (2015), Number 2, 25–35<br>
+<a href="https://arxiv.org/abs/1410.6908">arXiv:1410.6908</a></p>
+</li>
+<li>
+<p><strong>Induced maps on Grothendieck groups</strong><br>
+<strong>Niels uit de Bos</strong><br>
+<strong>Master&rsquo;s Thesis</strong>, August 2014<br>
+<a href="https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/uitdebosmaster.pdf">PDF</a></p>
+</li>
+</ul>
+]]></content:encoded></item></channel></rss>
